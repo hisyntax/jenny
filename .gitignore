@@ -18,4 +18,4 @@
 .env
 
 tmp/
-public/images/
+# public/images/

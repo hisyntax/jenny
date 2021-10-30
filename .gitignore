@@ -18,5 +18,5 @@
 .env
 
 tmp/
-public/images/
-public/music/
+# public/images/
+# public/music/
